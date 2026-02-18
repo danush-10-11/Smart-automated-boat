@@ -12,5 +12,4 @@ An Arduino-based autonomous boat designed for water-based rescue missions. Featu
 * **Hardware:** Arduino Nano, NEO-6M GPS, HC-05 Bluetooth, L293D Motor Driver, MG995 Servo.
 * **Libraries:** TinyGPS++, SoftwareSerial, Servo.
 
-## 📸 System Architecture
-![Wiring Diagram](link-to-your-image-here.jpg)
+
